@@ -1,0 +1,24 @@
+[
+    {
+        "username": "pharaohs-curse",
+        "profileImage": "./images/profile-pics/profile-pic-1.png",
+        "datePosted": "2025-12-23T14:33:12Z",
+        "postContent": "a post of maximal silliness",
+        "notes": [
+            "these people",
+            "really put",
+            "anything",
+            "in here"
+        ]
+    },
+    {
+        "username": "pharaohs-cure",
+        "profileImage": "./images/profile-pics/profile-pic-2.jpg",
+        "datePosted": "2025-11-07T03:33:33Z",
+        "postContent": "a post of even greater silliness",
+        "notes": [
+            "oh yeah",
+            "its in there"
+        ]
+    }
+]
